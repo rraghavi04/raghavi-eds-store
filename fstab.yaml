@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/raghavi-eds/Shared%20Documents/eds-commerce-storefront/eds-commerce-storefront
+  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
 
 folders:
   /products/: /products/default
